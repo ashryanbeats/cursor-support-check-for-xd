@@ -1,6 +1,6 @@
-# Getting started
+# Cursor Support Check for XD
 
-This sample plugin is shows divs with cursor classes so you can check which ones are current supported in UXP.
+This sample plugin for XD plugin developers simply shows divs in panel. Each div has a cursor class, so you can check which cursors are currently supported in UXP.
 
 ## Usage
 
